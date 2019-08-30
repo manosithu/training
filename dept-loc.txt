@@ -1,8 +1,4 @@
-10,Accounts,Joyce,2098,Delhi
-20,Sales,Richard,2743,Hyderabad
-40,HR,Yumi,3154,Los Angeles
-40,HR,Michiyo,2239,Washington
-30,Marketing,Victor,2365,Houston
+
 40,HR,Gordon,2780,Austin
 10,Accounts,Sandy,3284,New York
 10,Accounts,Alex,2562,Washington
