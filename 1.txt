@@ -1,0 +1,30 @@
+create table schools (school_name varchar2(10),school_type varchar2(15),school_category varchar2(15),school_places varchar2(20));
+
+insert into schools values ('senthil','independent','co_educational''salem');
+
+insert into schools values ('cbse','independent','co_educational''salem');
+
+insert into schools values ('gayathri','independent','co_educational''junction');
+
+insert into schools values ('ramakrishna','independent','co_educational''junction');
+
+insert into schools values ('arrs','independent','co_educational''omalur');
+
+commit;
+
+
+
+
+
+
+create table students (student_id number,student_name varchar2(10),marks number,subject varchar2(15));
+
+insert into students values(1,'mano',80,'english');
+
+insert into students values(2,'tamil',70,'english');
+
+insert into students values(3,'neela',75,'maths');
+
+insert into students values(4,'naraynan',85,'maths');
+
+commit;
