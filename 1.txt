@@ -2,7 +2,6 @@ create table schools (school_name varchar2(10),school_type varchar2(15),school_c
 
 insert into schools values ('senthil','independent','co_educational''salem');
 
-insert into schools values ('cbse','independent','co_educational''salem');
 
 insert into schools values ('gayathri','independent','co_educational''junction');
 
