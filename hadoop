@@ -3,4 +3,8 @@ To get the first 10 lines of the file, hadoop fs -cat 'file path' | head -10
 (/user/manosithu/new/InsBenefitsCostSharing/part-m-00001 | head -10)
 
 To get the last 5 lines of the file, hadoop fs -cat 'file path' | tail -5
-(/user/manosithu/new/InsBenefitsCostSharing/part-m-00001 | tail -5)
+
+
+
+add a colum
+hadoop fs -cat (filepath)
